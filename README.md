@@ -6,7 +6,7 @@ Sistema Criado com o  php(7.0) e o mysql(5.7) e o framework codeigniter
 como instalar
 altere os sequintes variaveis
  
- exporte o bnco "bancoDadosUseEsteAqui.sql" 
+ exporte o arquivo sql "bancoDadosUseEsteAqui.sql" 
  
  $config['base_url']
   "localização da pasta (application\config\config.php)"
