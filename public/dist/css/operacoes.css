@@ -1,0 +1,15 @@
+/* 
+    Document   : operacoes
+    Created on : 23/10/2016, 20:20:37
+    Author     : Fernando
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.lista_de_usuarios { 
+   /* visibility: hidden;*/
+}
+
+.logo {
+    background-color: #f39c12;
+}
